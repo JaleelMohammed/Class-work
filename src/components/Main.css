@@ -1,0 +1,44 @@
+section {
+    padding: 30px;
+    background-color: aqua;
+
+}
+
+section .main {
+    width: 490px;
+    border-top: 2px solid rgb(237, 224, 224);
+    border-bottom: 2px solid rgb(238, 220, 220);
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+section button {
+    background-color: darkblue;
+    border-radius: 15px;
+    color: white;
+    padding: 7px;
+    border: none;
+}
+
+section strong {
+    font-size: 18px;
+}
+
+.main h2 {
+    font-size: 35px;
+    padding: 10px 0;
+}
+
+.main p {
+    line-height: 20px;
+    font-size: 16px;
+}
+
+section img {
+    float: right;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-right: -500px;
+    margin-top: -30px;
+}
