@@ -1,18 +1,19 @@
-section {
+.section5{
+    /* width: 350px; */
     padding: 30px;
     background-color: aqua;
-
+    /* display: inline; */
 }
 
-section .main {
+.section5 .main {
     width: 490px;
-    border-top: 2px solid rgb(237, 224, 224);
+    border-top: 2px solid rgb(248, 121, 121);
     border-bottom: 2px solid rgb(238, 220, 220);
     margin: 20px 0;
     padding: 20px 0;
 }
 
-section button {
+.section5 button {
     background-color: darkblue;
     border-radius: 15px;
     color: white;
@@ -20,7 +21,7 @@ section button {
     border: none;
 }
 
-section strong {
+.section5 strong {
     font-size: 18px;
 }
 
@@ -34,7 +35,53 @@ section strong {
     font-size: 16px;
 }
 
-section img {
+.section5 img {
+    float: right;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-right: -500px;
+    margin-top: -30px;
+}
+
+.section5 {
+    /* width: 350px; */
+    padding: 30px;
+    background-color: aqua;
+    /* display: inline; */
+}
+
+.section5 .main {
+    width: 490px;
+    border-top: 2px solid rgb(248, 121, 121);
+    border-bottom: 2px solid rgb(238, 220, 220);
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.section5 button {
+    background-color: darkblue;
+    border-radius: 15px;
+    color: white;
+    padding: 7px;
+    border: none;
+}
+
+.section5 strong {
+    font-size: 18px;
+}
+
+.main h2 {
+    font-size: 35px;
+    padding: 10px 0;
+}
+
+.main p {
+    line-height: 20px;
+    font-size: 16px;
+}
+
+.section5 img {
     float: right;
     width: 250px;
     height: 250px;

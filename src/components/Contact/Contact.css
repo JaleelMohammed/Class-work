@@ -1,0 +1,48 @@
+section {
+    padding: 50px 30px;
+    background-color: greenyellow;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+section main {
+    width: 600px;
+    padding: 10px;
+}
+
+main p {
+    padding: 10px 0;
+}
+
+section form {
+    background-color: rgb(104, 237, 81);
+    width: 320px;
+    height: 400px;
+    border-radius: 15px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+form h3 {
+    padding: 15px 0;
+}
+
+form input {
+    margin: 15px 0;
+    text-align: center;
+    outline: none;
+    border: none;
+}
+
+section button {
+    color: white;
+    background-color: blue;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+form button {
+    margin-top: 10px;
+}

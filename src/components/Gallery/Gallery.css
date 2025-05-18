@@ -1,0 +1,27 @@
+.section2 img {
+    width: 295px;
+    height: 230px;
+    /* padding:  5px 10px; */
+    /* object-fit:cover; */
+    /* object-fit:fill; */
+    margin: 19px 0;
+}
+
+.section2 {
+    width: 100%;
+    /* padding: 10px; */
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-row-gap: 5px;
+    
+}
+
+.section2 button {
+    grid-column: span 4;
+    padding: 10px;
+    background-color: blue;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 17px;
+}
